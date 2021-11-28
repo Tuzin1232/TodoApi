@@ -1,0 +1,12 @@
+
+h1, h6{
+    font-weight: bold;
+}
+
+.landingPage{
+    background-color: white;
+    margin: 3rem;
+    box-shadow: black;
+    padding: 3rem;
+    border-radius: 10px;
+}
